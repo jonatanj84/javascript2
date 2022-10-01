@@ -1,0 +1,14 @@
+{
+  "name": "tema3",
+  "version": "1.0.0",
+  "description": "estructuras de control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "estrucruras"
+  ],
+  "author": "Jonatan",
+  "license": "ISC"
+}
